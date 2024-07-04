@@ -5,4 +5,8 @@ Basic annotations - add
 
 
 def add(a: float, b: float) -> float:
+    """
+    Add two variable
+    """
+
     return a + b
